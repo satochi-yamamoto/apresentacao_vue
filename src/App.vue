@@ -198,7 +198,98 @@ Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Tele
               <div class="skill-level" style="width: 90%"></div>
             </div>
           </div>
-          
+            <div class="skill-item">
+                    <h3>AWS</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 90%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>Microsoft Azure</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                
+                
+                </div>
+                <div class="skill-item">
+                    <h3>Oracle Cloud</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 90%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>ISO 9001 / ISO 27001</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 90%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>Docker</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>Metodologia Agil</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>CI / CD</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>SQL-Server</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>MYSQL</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>PostgreSQL</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>Python / Django</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>PHP / Laravel</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>Node-js</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>Java Script</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="skill-item">
+                    <h3>Power BI</h3>
+                    <div class="skill-bar">
+                        <div class="skill-level" style="width: 100%"></div>
+                    </div>
+                </div>
           <!-- Other skills items... -->
         </div>
       </div>
