@@ -161,7 +161,7 @@ Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Tele
               <p>Pos Graduação em Curso</p>
             </div>
           </div>
-           <div class="education-item" style="display: flex; align-items: flex-start; gap: 20px; padding-bottom: 24px; border-bottom: 1px solid #eee;">
+          <div class="education-item" style="display: flex; align-items: flex-start; gap: 20px; padding-bottom: 24px; border-bottom: 1px solid #eee;">
                     <div class="education-icon">
                         <i class="fas fa-graduation-cap"></i>
                     </div>
@@ -295,6 +295,57 @@ Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Tele
       </div>
     </section>
 
+    <!-- Projects Section -->
+    <section id="projects" class="section projects">
+        <div class="container">
+            <h2 class="section-title">Projetos Destacados</h2>
+            
+            <div class="projects-grid" style="display: flex; gap: 32px; flex-wrap: wrap;">
+                <div class="project-item" style="flex: 1 1 300px; min-width: 280px; max-width: 350px;">
+                    <img src="images/projects/project1.jpg" alt="Projeto 1">
+                    <div class="project-overlay">
+                        <h3>Site de apresentação versão React.js</h3>
+                        <p>Site de apresentação desenvolvido na linguagem React</p>
+                        <a href="https://react.satochi.com.br/" class="btn btn-outline">Ver Detalhes</a>
+                    </div>
+                </div>
+                <div class="project-item" style="flex: 1 1 300px; min-width: 280px; max-width: 350px;">
+                    <img src="images/projects/project2.jpg" alt="Projeto 2">
+                    <div class="project-overlay">
+                        <h3>Site de apresentação versão Vue.js</h3>
+                        <p>Site de apresentação desenvolvido na linguagem Vue3</p>
+                        <a href="https://vue.satochi.com.br/" class="btn btn-outline">Ver Detalhes</a>
+                    </div>
+                </div>
+                <div class="project-item" style="flex: 1 1 300px; min-width: 280px; max-width: 350px;">
+                    <img src="images/projects/whats.jpg" alt="Projeto 3">
+                    <div class="project-overlay">
+                        <h3>API Automação Whatsapp</h3>
+                        <p>API de Automação de mensagens do Whatsapp</p>
+                        <a href="#" class="btn btn-outline">Ver Detalhes</a>
+                    </div>
+                </div>
+            </div>
+                <!-- Adicione outros projetos -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Trabalho voluntário-->
+    <section id="volunteer" class="section volunteer">
+        <div class="container">
+            <h2 class="section-title">Trabalho Voluntário</h2>
+            <div class="volunteer-content" style="margin-bottom: 32px; display: flex; flex-direction: column; align-items: flex-start;">
+                <h3 style="margin-bottom: 8px;">Grupo Escoteiro Cooper Cotia - 131</h3>
+                <p style="margin-left: 0;">Atualmente atuo como voluntário na Escoteira do Cooper Cotia do Distrito do Butantã SP, realizo trabalhos na equipe de apoio de Pais, atuando como suporte nas atividades, refeições e em Festas dos jovens do grupo Escoteiro aos finais de semana.</p>
+            </div>
+            <div class="volunteer-content" style="margin-bottom: 32px; display: flex; flex-direction: column; align-items: flex-start;">
+                <h3 style="margin-bottom: 8px;">Representante do GAP - CooperAtletico Clube</h3>
+                <p style="margin-left: 0;">Atuante no Grupo de apoio a prevenção realizando monitorias e inspeções do Clube CooperCotia em busca de melhorias e qualidade para os Socios.</p>
+            </div>
+        </div>
+    </section>
+       
     <!-- Contact Section -->
     <section id="contact" class="section contact">
       <div class="container">
