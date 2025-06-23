@@ -1,30 +1,23 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alexandre Satochi Yamamoto - Especialista TI, Desenvolvimento de Software e Gestão</title>
-    <meta name="description" content="Profissional de TI e gestão com experiência em Desenvolvimento de Software e Infraestrutura">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-</head>
 <template>
   <div class="container">
-     
     <div class="hero-content">
-                <h1>Alexandre Satochi Yamamoto</h1>
-                <h2>Coordenador de Desenvolvimento de Software e TI,</h2>
-                <p>+25 anos de atuação na área de TI dos quais 12 anos dedicado a liderança de equipes em projetos de TI e de Desenvolvimento de Softwares</p>
-                <div class="hero-cta">
-                    <a href="#contact" class="btn btn-primary">Entre em Contato</a>
-                    <a href="#experience" class="btn btn-outline">Ver Experiência</a>
-                </div>
-            </div>
-            <div class="hero-image">
-                <img src="images/avatar.jpg" alt="Alexandre Satochi Yamamoto">
+      <h1>Alexandre Satochi Yamamoto</h1>
+      <h2>Coordenador de Desenvolvimento de Software e TI,</h2>
+      <p>
+        +25 anos de atuação na área de TI dos quais 12 anos dedicado a liderança de equipes em projetos de TI e de Desenvolvimento de Softwares
+      </p>
+      <div class="hero-cta">
+        <a href="#contact" class="btn btn-primary">Entre em Contato</a>
+        <a href="#experience" class="btn btn-outline">Ver Experiência</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="images/avatar.jpg" alt="Alexandre Satochi Yamamoto" />
+    </div>
     <!-- Conteúdo agrupará o formulário e a listagem -->
     <div class="content">
       <!-- Formulário para criar novos posts -->
       <create-post-form @postCreated="fetchPosts" />
-      
       <!-- Lista de posts existentes, recebidos via data -->
       <posts-list :posts="posts" />
     </div>
@@ -65,51 +58,40 @@ export default {
 </script>
 
 <style>
-/* 
-  Estilizando a página de forma geral 
-  para ter um fundo de tela e centralizar conteúdo 
-*/
-
-/* Zera margens e preenchimentos padrões */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Fundo da página com uma imagem de exemplo e cor de apoio */
 body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   background: #f0f0f0 url('https://via.placeholder.com/1600x900/cccccc/ffffff?text=Background+Image') no-repeat center center fixed;
   background-size: cover;
 }
 
-/* Container principal, centralizado e com um fundo semi-transparente */
 .container {
   max-width: 800px;
   margin: 0 auto;
-  text-align: center;         /* Centraliza textos */
+  text-align: center;
   background: rgba(255, 255, 255, 0.9);
   padding: 40px;
   margin-top: 40px;
   border-radius: 8px;
 }
 
-/* Conteúdo interno que agrupa o formulário e a lista */
 .content {
   background-color: #fafafa;
   border-radius: 8px;
   padding: 20px;
 }
 
-/* Título com espaçamento */
 h1 {
   margin-bottom: 20px;
 }
 
-/* Ajustes de Botão */
 button {
-  background-color: #42b983; /* Verde padrão do Vue */
+  background-color: #42b983;
   color: white;
   border: none;
   padding: 10px 16px;
