@@ -102,45 +102,45 @@
               <p>Responsagel pela gestão da equipe de desenvolvimento, liderando no desenvolvimento de aplicações internas e Mobiles, Gestão de equipe, onde implementei o DEVOps e a metodologia Agile</p>
             </div>
           </div>
-           <div class="timeline-item">
-                    <div class="timeline-date">2020 - 2023</div>
-                    <div class="timeline-content">
-                        <h3>K2A Partners </h3>
-                        <h4>Coordenador de TI e Operações</h4>
-                        <p>liderei a infraestrutura de TI, gerenciando serviços e servidores em ambientes de nuvem, garantindo links eficazes, acesso seguro via VPN e supervisionando as redes e serviços de TI. Como mantenedor de sistemas e DBA, desenvolvi novos relacionamentos de dados e criei procedimentos para a equipe de desenvolvimento, além de integrar dados com o Power BI.</p>
-                    </div>
+          <div class="timeline-item">
+            <div class="timeline-date">2020 - 2023</div>
+            <div class="timeline-content">
+              <h3>K2A Partners </h3>
+              <h4>Coordenador de TI e Operações</h4>
+              <p>liderei a infraestrutura de TI, gerenciando serviços e servidores em ambientes de nuvem, garantindo links eficazes, acesso seguro via VPN e supervisionando as redes e serviços de TI. Como mantenedor de sistemas e DBA, desenvolvi novos relacionamentos de dados e criei procedimentos para a equipe de desenvolvimento, além de integrar dados com o Power BI.</p>
+            </div>
                 </div>
 
-                <div class="timeline-item">
-                    <div class="timeline-date">2016 - 2020</div>
-                    <div class="timeline-content">
-                        <h3>Atiks</h3>
-                        <h4>Coordenador de Operações e Desenvolvimento de Software</h4>
-                        <p>Na liderança de Projetos Técnicos na Atiks TEM, fui encarregado de liderar e gerenciar diversas iniciativas estratégicas, desempenhando funções cruciais que incluíram gerenciamento de DevOps, supervisão do ciclo de vida dos projetos e validação de novas versões. Colaborei com a equipe de operações para garantir o desenvolvimento de novos itens e módulos para o Sistema TEM. Liderei com sucesso um projeto crucial de conversão de leitura OCR de faturas, melhorando significativamente a eficiência dos processos..</p>
-                    </div>
-                </div>
-                <div class="timeline-item">
-                    <div class="timeline-date">2011 - 2015</div>
-                    <div class="timeline-content">
-                        <h3>TST Telmax </h3>
-                        <h4>Coordenador de TI</h4>
-                        <p>Na TST Telmax Soluções em Telecomunicações, atuei como Coordenador de Infraestrutura de TI, desempenhando um papel fundamental na gestão e desenvolvimento da infraestrutura de tecnologia da informação. Minhas principais responsabilidades incluíram liderar uma equipe de TI, gerenciar projetos de TI desde o planejamento até a implementação, integrar operações entre matriz e filiais, supervisionar intranet, backup, servidores em nuvem, administrar redes, servidores, telefonia e aplicações internas, iniciar projeto de telefonia SIP, contribuir para o desenvolvimento de sistemas e aplicativos de gestão de projetos, e auxiliar na integração de políticas ISO e no desenvolvimento de ferramentas de gestão de TI..</p>
-                    </div>
-                </div>
           <div class="timeline-item">
-                    <div class="timeline-date">2005 - 2011</div>
-                    <div class="timeline-content">
-                        <h3>Motorola Industrial</h3>
-                        <h4>Coordenador de Campo</h4>
-                        <p>Na Motorola Mobility, atuei como Coordenador Field Test, desempenhando um papel fundamental no campo de testes de aparelhos celulares. Minhas principais responsabilidades e competências incluíram:
+            <div class="timeline-date">2016 - 2020</div>
+            <div class="timeline-content">
+              <h3>Atiks</h3>
+              <h4>Coordenador de Operações e Desenvolvimento de Software</h4>
+              <p>Na liderança de Projetos Técnicos na Atiks TEM, fui encarregado de liderar e gerenciar diversas iniciativas estratégicas, desempenhando funções cruciais que incluíram gerenciamento de DevOps, supervisão do ciclo de vida dos projetos e validação de novas versões. Colaborei com a equipe de operações para garantir o desenvolvimento de novos itens e módulos para o Sistema TEM. Liderei com sucesso um projeto crucial de conversão de leitura OCR de faturas, melhorando significativamente a eficiência dos processos..</p>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="timeline-date">2011 - 2015</div>
+            <div class="timeline-content">
+              <h3>TST Telmax </h3>
+              <h4>Coordenador de TI</h4>
+              <p>Na TST Telmax Soluções em Telecomunicações, atuei como Coordenador de Infraestrutura de TI, desempenhando um papel fundamental na gestão e desenvolvimento da infraestrutura de tecnologia da informação. Minhas principais responsabilidades incluíram liderar uma equipe de TI, gerenciar projetos de TI desde o planejamento até a implementação, integrar operações entre matriz e filiais, supervisionar intranet, backup, servidores em nuvem, administrar redes, servidores, telefonia e aplicações internas, iniciar projeto de telefonia SIP, contribuir para o desenvolvimento de sistemas e aplicativos de gestão de projetos, e auxiliar na integração de políticas ISO e no desenvolvimento de ferramentas de gestão de TI..</p>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="timeline-date">2005 - 2011</div>
+            <div class="timeline-content">
+              <h3>Motorola Industrial</h3>
+              <h4>Coordenador de Campo</h4>
+              <p>Na Motorola Mobility, atuei como Coordenador Field Test, desempenhando um papel fundamental no campo de testes de aparelhos celulares. Minhas principais responsabilidades e competências incluíram:
 
 Coordenação e Gerenciamento de Equipes de Testes de Aparelhos Celulares: Liderei e gerenciei equipes de testes de aparelhos celulares, garantindo a eficácia e qualidade dos testes.
 
 Controle de Qualidade e Ações de Qualidade na América Latina: Atuei na coordenação e controle de qualidade dos testes e ações de qualidade em toda a América Latina.
 
 Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Telefones Celulares: Contribuí para o desenvolvimento e implementação de ferramentas e softwares de testes para telefones celulares..</p>
-                    </div>
-                </div>
+            </div>
+          </div>
           <!-- Other timeline items... -->
         </div>
       </div>
