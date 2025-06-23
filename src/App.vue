@@ -13,16 +13,16 @@
           </ul>
         </nav>
         <div class="header-icons">
-          <a href="https://github.com/satochi-yamamoto" target="_blank" rel="noopener noreferrer" title="GitHub">
-            <i class="fa-brands fa-github" aria-hidden="true"></i>
-          </a>
-          <a href="https://www.linkedin.com/in/alexyamamoto/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-            <i class="fab fa-linkedin"></i>
-          </a>
-          <a href="#" target="_blank" rel="noopener noreferrer" title="Discord">
-            <i class="fa-brands fa-discord" aria-hidden="true"></i>
-          </a>
-        </div>
+  <a href="https://github.com/satochi-yamamoto" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <font-awesome-icon :icon="['fab', 'github']" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexyamamoto/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <font-awesome-icon :icon="['fab', 'linkedin']" />
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer" title="Discord">
+    <font-awesome-icon :icon="['fab', 'discord']" />
+  </a>
+</div>
         <div class="mobile-menu">
           <i class="fas fa-bars"></i>
         </div>
