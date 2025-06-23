@@ -1,7 +1,10 @@
 <template>
   <div class="container">
-    <h1>Exemplo CRUD com Vue e Laravel 11</h1>
-    
+     
+    <h1>Alexandre Satochi Yamamoto</h1>
+                <h2>Coordenador de Desenvolvimento de Software e TI,</h2>
+      <p>+25 anos de atuação na área de TI dos quais 12 anos dedicado a liderança de equipes em projetos de TI e de Desenvolvimento de Softwares</p>
+           
     <!-- Conteúdo agrupará o formulário e a listagem -->
     <div class="content">
       <!-- Formulário para criar novos posts -->
