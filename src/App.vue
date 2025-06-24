@@ -326,8 +326,7 @@ Desenvolvimento e Implementação de Ferramentas e Softwares de Testes para Tele
                     </div>
                 </div>
             </div>
-                <!-- Adicione outros projetos -->
-            </div>
+            <!-- Adicione outros projetos -->
         </div>
     </section>
 
