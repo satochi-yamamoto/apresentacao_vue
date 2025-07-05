@@ -23,10 +23,10 @@
       </div>
 
       <div class="form-group">
-        <label for="content">Nome:</label>
+        <label for="nome">Nome:</label>
         <textarea
           id="nome"
-         v-model="nome"
+          v-model="nome"
           required
         ></textarea>
       </div>
@@ -43,7 +43,8 @@ export default {
   data() {
     return {
       title: '',
-      content: ''
+      content: '',
+      nome: ''
     }
   },
   methods: {
@@ -51,7 +52,8 @@ export default {
       try {
         const payload = {
           title: this.title,
-          content: this.content
+          content: this.content,
+          nome: this.nome
         }
 
         // Variável de ambiente: process.env.VUE_APP_API_URL
@@ -62,6 +64,7 @@ export default {
         // Limpando campos
         this.title = ''
         this.content = ''
+        this.nome = ''
 
         // Emitindo evento para o componente pai atualizar a lista
         this.$emit('postCreated')
